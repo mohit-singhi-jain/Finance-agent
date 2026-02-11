@@ -1,4 +1,4 @@
-# 💰 AI Wealth Assistant
+# 💰 Finance Agent
 
 **A comprehensive AI-powered financial agent designed to bridge the gap between personal finance management and real-time stock market intelligence.**
 
